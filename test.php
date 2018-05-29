@@ -1,1 +1,2 @@
-55555555555
+<?php
+echo phpinfo();
